@@ -8,3 +8,6 @@ My Leetcode solutions
 | 6      | [Zigzag Conversion](Solutions/6.Zigzag_Conversion.py) | Math! |
 | 7      | [Reverse_Integer](Solutions/7.Reverse_Integer.py) | Converting to str |
 | 8      | [Atoi](Solutions/8.atoi.py) |  |
+| 9      | [Palindrome Number](Solutions/9.Palindrome_Number.py) | Convert to str |
+| 10     | [Regular Expression Matching](Solutions/Dynamic%20Programming/10.Regular_Expression_Matching.py) | Dynamic Programming |
+| 70     | [Climbing Stairs](Solutions/Dynamic%20Programming/70.Climbing_Stairs.py) | Dynamic Programming |
